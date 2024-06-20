@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\SHAYAN\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add node-telegram-bot-api instagram-scraper-api
+
+PATH: 
+  C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Python310\Scripts\;C:\Python310\;C:\Users\SHAYAN\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\SHAYAN\AppData\Local\Programs\Python\Python39\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;"C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_121\bin";C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\php;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Users\SHAYAN\AppData\Local\Microsoft\WindowsApps;G:\PC Program\Visual Studio\install\Microsoft VS Code\bin;C:\Users\SHAYAN\AppData\Roaming\npm;
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  16.14.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ETIMEDOUT 5.9.210.76:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+
+npm manifest: 
+  {
+    "name": "InstaDownloader",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
